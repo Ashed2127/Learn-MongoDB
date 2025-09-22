@@ -1,0 +1,83 @@
+﻿[
+  {
+    name: "Nodejs Course",
+    author: "Ashed",
+    date: "2025-09-21T01:25:12.758Z",
+    price: 49.99,
+    isPublished: true,
+    tags: ["Nodejs", "Backend"]
+  },
+  {
+    name: "Angular Course",
+    author: "Ashed",
+    date: "2025-09-21T21:50:14.413Z",
+    price: 59.99,
+    isPublished: true,
+    tags: ["Angular", "Frontend"]
+  },
+  {
+    name: "React Course",
+    author: "Maya",
+    date: "2025-08-15T14:30:00.000Z",
+    price: 54.99,
+    isPublished: true,
+    tags: ["React", "Frontend"]
+  },
+  {
+    name: "Python Basics",
+    author: "John",
+    date: "2025-07-10T09:45:30.000Z",
+    price: 39.99,
+    isPublished: true,
+    tags: ["Python", "Backend"]
+  },
+  {
+    name: "Django for Beginners",
+    author: "Sara",
+    date: "2025-06-20T11:15:00.000Z",
+    price: 69.99,
+    isPublished: false,
+    tags: ["Django", "Backend"]
+  },
+  {
+    name: "Vue.js Essentials",
+    author: "Mark",
+    date: "2025-05-18T08:00:00.000Z",
+    price: 44.99,
+    isPublished: true,
+    tags: ["Vue", "Frontend"]
+  },
+  {
+    name: "Java Fundamentals",
+    author: "Alex",
+    date: "2025-04-25T16:20:00.000Z",
+    price: 49.99,
+    isPublished: true,
+    tags: ["Java", "Backend"]
+  },
+  {
+    name: "C# Basics",
+    author: "Nina",
+    date: "2025-03-30T13:50:00.000Z",
+    price: 39.99,
+    isPublished: false,
+    tags: ["C#", "Backend"]
+  },
+  {
+    name: "HTML & CSS Mastery",
+    author: "Linda",
+    date: "2025-02-15T10:30:00.000Z",
+    price: 29.99,
+    isPublished: true,
+    tags: ["HTML", "CSS", "Frontend"]
+  },
+  {
+    name: "Fullstack Developer Bootcamp",
+    author: "David",
+    date: "2025-01-10T14:00:00.000Z",
+    price: 99.99,
+    isPublished: true,
+    tags: ["Fullstack", "Frontend", "Backend"]
+  }
+]
+
