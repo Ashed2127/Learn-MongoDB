@@ -20,7 +20,7 @@ mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost:27017/jwt_auth'
 .then(() => console.log('MongoDB connected successfully'))
 .catch(err => console.log('MongoDB connection error:', err));
 
-// User Schema
+// User Schema: define the structure of document inside collection
 const userSchema = new mongoose.Schema({
     email: {
         type: String,
@@ -40,6 +40,7 @@ const userSchema = new mongoose.Schema({
     }
 });
 
+//CONVERTED INTO CLASS
 const User = mongoose.model('User', userSchema);
 
 // JWT Middleware
